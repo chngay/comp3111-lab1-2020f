@@ -1,5 +1,5 @@
-Name: Ng Chun Hung
+Pseudo Name: Sei Whyy
 
-ID: 20410251
+8-digit number: 12345678
 
 ![](screenshot.png)
